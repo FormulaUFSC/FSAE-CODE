@@ -2,7 +2,7 @@
 #include "cfw11.h"
 
 //Porta na qual o RS232 está ligado:
-#define porta 3
+#define porta 2
 //Endereço do inversor:
 #define address 1
 //Endereço do inversor:
